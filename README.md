@@ -1,0 +1,1 @@
+Regresión linear es un Jupyters Notebook con un modelo para encontrar relaciones entre el profit de las compañias en la base de datos y las otras variables, con el objetivo de poder tomar decisiones de negocio informadas.
